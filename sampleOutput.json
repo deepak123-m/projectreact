@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "info-money",
+                "name": "InfoMoney"
+            },
+            "author": "Lucas Gabriel Marins",
+            "title": "Bitcoin passa por correção e gera nova onda de liquidação em massa",
+            "description": "Com exceção de dois tokens pequenos, todas as criptomoedas operam no negativo hoje",
+            "url": "https://www.infomoney.com.br/onde-investir/bitcoin-hoje-passa-por-correcao-em-meio-a-onda-de-liquidacao-em-massa/",
+            "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2023/12/GettyImages-1453534485.jpg?quality=70",
+            "publishedAt": "2024-03-15T11:23:34Z",
+            "content": "Após renovar mais uma vez sua máxima histórica, o Bitcoin (BTC) passou por correção e gerou uma liquidação ampla no mercado de criptomoedas. Com exceção de dois tokens com baixo valor de mercado, tod… [+5069 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "Craig Wright Is Not Bitcoin Creator Satoshi Nakamoto, Judge Declares",
+            "description": "A surprisingly fast ruling at the end of a six-week trial in the UK High Court ends Craig Wright's campaign to be recognized as the inventor of Bitcoin.",
+            "url": "https://www.wired.com/story/craig-wright-not-satoshi-nakamoto-bitcoin-creator-ruling",
+            "urlToImage": "https://media.wired.com/photos/65f23b3fad3d9deb2399fd38/191:100/w_1280,c_limit/Craig-Wright-Trial-Closing-Arguments-Business-1979196340.jpg",
+            "publishedAt": "2024-03-14T14:01:17Z",
+            "content": "A judge in the UK High Court has declared that Australian computer scientist Craig Wright is not Satoshi Nakamoto, the creator of Bitcoin, marking the end of a years-long debate.\r\nThe evidence is ove… [+3119 chars]"
+        }
+    ]
+}
